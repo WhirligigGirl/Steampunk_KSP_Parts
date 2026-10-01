@@ -1,0 +1,13 @@
+# Blender 4.1.1 MTL File: '1.25m_Boilers.blend'
+# www.blender.org
+
+newmtl 1.25m_Boiler
+Ns 5.289255
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd Textures/1.25m_Boilers_Diffuse.png
+map_refl Textures/1.25m_Boilers_Metal.png
