@@ -12,4 +12,5 @@ Currently includes:
 * 1.25m boiler parts in 1m, 2m, and 3m lengths.
 * Smokebox Door decorative endcap.
 * 1.25m firebox part
-* 14 tiny pipe parts
+* 16 tiny pipe parts
+* Ramsbottom safety valve
