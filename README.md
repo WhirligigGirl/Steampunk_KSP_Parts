@@ -14,3 +14,4 @@ Currently includes:
 * 1.25m firebox part
 * 16 tiny pipe parts
 * Ramsbottom safety valve
+* Turbo-Dynamo
