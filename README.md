@@ -5,6 +5,8 @@ Currently all parts are decorative, though a steam simulation plugin is currentl
 
 Requires Resurfaced/Technicolor and its prerequisites. https://github.com/Tantares/Resurfaced/releases/
 
+Requires B9PartSwitch. https://forum.kerbalspaceprogram.com/topic/140541-1112-b9partswitch-v2180-march-17/
+
 Recommended to play with ReStock PBR. https://github.com/PorktoberRevolution/ReStockPBR/releases
 
 Currently includes:
@@ -18,3 +20,5 @@ Currently includes:
 * Oil-fired Box headlamp
 * Oil-fired Round headlamp
 * Electric Headlight
+* Three steam domes
+* Three chimneys/funnels (Capped, straight, and diamond) each with several variants.
