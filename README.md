@@ -15,3 +15,6 @@ Currently includes:
 * 16 tiny pipe parts
 * Ramsbottom safety valve
 * Turbo-Dynamo
+* Oil-fired Box headlamp
+* Oil-fired Round headlamp
+* Electric Headlight
