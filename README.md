@@ -22,3 +22,5 @@ Currently includes:
 * Electric Headlight
 * Three steam domes
 * Three chimneys/funnels (Capped, straight, and diamond) each with several variants.
+* Two refractor telescopes, a 5" achromat and a 20" Great Refractor.
+* a 1.875m/1.25m 2-crew capsule.
